@@ -1,2 +1,4 @@
-package com.garya;public class SmartWatch {
+package com.garya;
+
+public class SmartWatch {
 }
